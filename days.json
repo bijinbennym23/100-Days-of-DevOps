@@ -1,9 +1,16 @@
 [
   {
+    "day": 4,
+    "title": "File Permissions - Making a Script Executable for All Users",
+    "category": "Linux / File Permissions",
+    "date": "2026-09-10",
+    "path": "day-04-file-permissions-executable.md"
+  },
+  {
     "day": 5,
     "title": "SELinux Installation and Configuration",
     "category": "Linux / Security",
-    "date": "2026-08-16",
+    "date": "2026-09-10",
     "path": "day-05-selinux-configuration.md"
   }
 ]
