@@ -18,6 +18,7 @@ Daily hands-on DevOps practice log — one topic a day, documented as I go. Each
 | 06 | Create a Cron Job | Linux / Scheduling | 2026-09-21 | [day-06-create-cron-job.md](./day-06-create-cron-job.md) |
 | 07 | Linux SSH Authentication | Linux / Networking | 2026-09-21 | [day-07-linux-ssh-authentication.md](./day-07-linux-ssh-authentication.md) |
 | 08 | Install Ansible | Automation / Configuration Management | 2026-09-21 | [day-08-install-ansible.md](./day-08-install-ansible.md) |
+| 10 | Linux Bash Scripts | Linux / Bash Scripting | 2026-09-21 | [day-10-linux-bash-scripts.md](./day-10-linux-bash-scripts.md) |
 <!-- INDEX_END -->
 
 ---
