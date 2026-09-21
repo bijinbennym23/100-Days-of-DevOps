@@ -1,7 +1,7 @@
 # 100 Days of DevOps Learning Challenge
 
 ![Days](https://img.shields.io/badge/days-02%2F100-blue)
-![Last Updated](https://img.shields.io/badge/last%20updated-Sepg%202026-informational)
+![Last Updated](https://img.shields.io/badge/last%20updated-Sep%202026-informational)
 ![Stack](https://img.shields.io/badge/stack-Linux%20%7C%20K8s%20%7C%20AWS%20%7C%20CI%2FCD-orange)
 
 Daily hands-on DevOps practice log — one topic a day, documented as I go. Each file covers the task, the commands used, and what actually broke along the way.
