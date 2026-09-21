@@ -40,5 +40,12 @@
     "category": "Linux / Bash Scripting",
     "date": "2026-09-21",
     "path": "day-10-linux-bash-scripts.md"
+  },
+  {
+    "day": 14,
+    "title": "Linux Process Troubleshooting",
+    "category": "Linux / Troubleshooting",
+    "date": "2026-09-21",
+    "path": "day-14-linux-process-troubleshooting.md"
   }
 ]
