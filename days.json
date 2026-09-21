@@ -12,5 +12,26 @@
     "category": "Linux / Security",
     "date": "2026-09-15",
     "path": "day-05-selinux-configuration.md"
+  },
+  {
+    "day": 6,
+    "title": "Create a Cron Job",
+    "category": "Linux / Scheduling",
+    "date": "2026-09-21",
+    "path": "day-06-create-cron-job.md"
+  },
+  {
+    "day": 7,
+    "title": "Linux SSH Authentication",
+    "category": "Linux / Networking",
+    "date": "2026-09-21",
+    "path": "day-07-linux-ssh-authentication.md"
+  },
+  {
+    "day": 8,
+    "title": "Install Ansible",
+    "category": "Automation / Configuration Management",
+    "date": "2026-09-21",
+    "path": "day-08-install-ansible.md"
   }
 ]
