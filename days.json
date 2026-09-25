@@ -42,10 +42,24 @@
     "path": "day-10-linux-bash-scripts.md"
   },
   {
+    "day": 11,
+    "title": "Install and Configure Tomcat Server",
+    "category": "Linux / Application Servers",
+    "date": "2026-09-25",
+    "path": "day-11-install-configure-tomcat.md"
+  },
+  {
     "day": 14,
     "title": "Linux Process Troubleshooting",
     "category": "Linux / Troubleshooting",
     "date": "2026-09-21",
     "path": "day-14-linux-process-troubleshooting.md"
+  },
+  {
+    "day": 15,
+    "title": "Setup SSL for Nginx",
+    "category": "Linux / Networking / Security",
+    "date": "2026-09-25",
+    "path": "day-15-setup-ssl-nginx.md"
   }
 ]
