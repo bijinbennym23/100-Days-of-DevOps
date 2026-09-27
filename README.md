@@ -1,6 +1,6 @@
 # 100 Days of DevOps Learning Challenge
 
-![Days](https://img.shields.io/badge/days-07%2F100-blue)
+![Days](https://img.shields.io/badge/days-09%2F100-blue)
 ![Last Updated](https://img.shields.io/badge/last%20updated-Sep%202026-informational)
 ![Stack](https://img.shields.io/badge/stack-Linux%20%7C%20K8s%20%7C%20AWS%20%7C%20CI%2FCD-orange)
 
@@ -19,7 +19,9 @@ Daily hands-on DevOps practice log — one topic a day, documented as I go. Each
 | 07 | Linux SSH Authentication | Linux / Networking | 2026-09-21 | [day-07-linux-ssh-authentication.md](./day-07-linux-ssh-authentication.md) |
 | 08 | Install Ansible | Automation / Configuration Management | 2026-09-21 | [day-08-install-ansible.md](./day-08-install-ansible.md) |
 | 10 | Linux Bash Scripts | Linux / Bash Scripting | 2026-09-21 | [day-10-linux-bash-scripts.md](./day-10-linux-bash-scripts.md) |
+| 11 | Install and Configure Tomcat Server | Linux / Application Servers | 2026-09-25 | [day-11-install-configure-tomcat.md](./day-11-install-configure-tomcat.md) |
 | 14 | Linux Process Troubleshooting | Linux / Troubleshooting | 2026-09-21 | [day-14-linux-process-troubleshooting.md](./day-14-linux-process-troubleshooting.md) |
+| 15 | Setup SSL for Nginx | Linux / Networking / Security | 2026-09-25 | [day-15-setup-ssl-nginx.md](./day-15-setup-ssl-nginx.md) |
 <!-- INDEX_END -->
 
 ---
