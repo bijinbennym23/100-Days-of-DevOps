@@ -1,6 +1,6 @@
 # 100 Days of DevOps Learning Challenge
 
-![Days](https://img.shields.io/badge/days-22%2F100-blue)
+![Days](https://img.shields.io/badge/days-24%2F100-blue)
 ![Last Updated](https://img.shields.io/badge/last%20updated-Sep%202026-informational)
 ![Stack](https://img.shields.io/badge/stack-Linux%20%7C%20K8s%20%7C%20AWS%20%7C%20CI%2FCD-orange)
 
@@ -35,6 +35,8 @@ Daily hands-on DevOps practice log — one topic a day, documented as I go. Each
 | 23 | Fork a Git Repository | Git / Gitea | 2026-09-27 | [day-23-fork-git-repository.md](./day-23-fork-git-repository.md) |
 | 24 | Git Create Branches | Git / Version Control | 2026-09-27 | [day-24-git-create-branches.md](./day-24-git-create-branches.md) |
 | 25 | Git Merge Branches | Git / Version Control | 2026-09-27 | [day-25-git-merge-branches.md](./day-25-git-merge-branches.md) |
+| 26 | Git Manage Remotes | Git / Version Control | 2026-09-29 | [day-26-git-manage-remotes.md](./day-26-git-manage-remotes.md) |
+| 27 | Git Revert Some Changes | Git / Version Control | 2026-09-29 | [day-27-git-revert-changes.md](./day-27-git-revert-changes.md) |
 <!-- INDEX_END -->
 
 ---
