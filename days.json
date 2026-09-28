@@ -35,6 +35,13 @@
     "path": "day-08-install-ansible.md"
   },
   {
+    "day": 9,
+    "title": "MariaDB Troubleshooting",
+    "category": "Linux / Databases / Troubleshooting",
+    "date": "2026-09-27",
+    "path": "day-09-mariadb-troubleshooting.md"
+  },
+  {
     "day": 10,
     "title": "Linux Bash Scripts",
     "category": "Linux / Bash Scripting",
@@ -49,6 +56,20 @@
     "path": "day-11-install-configure-tomcat.md"
   },
   {
+    "day": 12,
+    "title": "Linux Network Services",
+    "category": "Linux / Networking",
+    "date": "2026-09-27",
+    "path": "day-12-linux-network-services.md"
+  },
+  {
+    "day": 13,
+    "title": "IPtables Installation And Configuration",
+    "category": "Linux / Security / Networking",
+    "date": "2026-09-27",
+    "path": "day-13-iptables-installation-configuration.md"
+  },
+  {
     "day": 14,
     "title": "Linux Process Troubleshooting",
     "category": "Linux / Troubleshooting",
@@ -61,5 +82,75 @@
     "category": "Linux / Networking / Security",
     "date": "2026-09-25",
     "path": "day-15-setup-ssl-nginx.md"
+  },
+  {
+    "day": 16,
+    "title": "Install and Configure Nginx as an LBR",
+    "category": "Linux / Networking / Load Balancing",
+    "date": "2026-09-27",
+    "path": "day-16-nginx-load-balancer.md"
+  },
+  {
+    "day": 17,
+    "title": "Install and Configure PostgreSQL",
+    "category": "Databases / PostgreSQL",
+    "date": "2026-09-27",
+    "path": "day-17-install-configure-postgresql.md"
+  },
+  {
+    "day": 18,
+    "title": "Configure LAMP Server",
+    "category": "Linux / Web Stack",
+    "date": "2026-09-27",
+    "path": "day-18-configure-lamp-server.md"
+  },
+  {
+    "day": 19,
+    "title": "Install and Configure Web Application",
+    "category": "Linux / Web Servers",
+    "date": "2026-09-27",
+    "path": "day-19-install-configure-web-application.md"
+  },
+  {
+    "day": 20,
+    "title": "Configure Nginx + PHP-FPM Using Unix Socket",
+    "category": "Linux / Web Stack",
+    "date": "2026-09-27",
+    "path": "day-20-nginx-php-fpm-unix-socket.md"
+  },
+  {
+    "day": 21,
+    "title": "Set Up Git Repository on Storage Server",
+    "category": "Git / Version Control",
+    "date": "2026-09-27",
+    "path": "day-21-setup-git-repository-storage-server.md"
+  },
+  {
+    "day": 22,
+    "title": "Clone Git Repository on Storage Server",
+    "category": "Git / Version Control",
+    "date": "2026-09-27",
+    "path": "day-22-clone-git-repository-storage-server.md"
+  },
+  {
+    "day": 23,
+    "title": "Fork a Git Repository",
+    "category": "Git / Gitea",
+    "date": "2026-09-27",
+    "path": "day-23-fork-git-repository.md"
+  },
+  {
+    "day": 24,
+    "title": "Git Create Branches",
+    "category": "Git / Version Control",
+    "date": "2026-09-27",
+    "path": "day-24-git-create-branches.md"
+  },
+  {
+    "day": 25,
+    "title": "Git Merge Branches",
+    "category": "Git / Version Control",
+    "date": "2026-09-27",
+    "path": "day-25-git-merge-branches.md"
   }
 ]

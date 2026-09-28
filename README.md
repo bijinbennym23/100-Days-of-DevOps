@@ -1,6 +1,6 @@
 # 100 Days of DevOps Learning Challenge
 
-![Days](https://img.shields.io/badge/days-09%2F100-blue)
+![Days](https://img.shields.io/badge/days-22%2F100-blue)
 ![Last Updated](https://img.shields.io/badge/last%20updated-Sep%202026-informational)
 ![Stack](https://img.shields.io/badge/stack-Linux%20%7C%20K8s%20%7C%20AWS%20%7C%20CI%2FCD-orange)
 
@@ -18,10 +18,23 @@ Daily hands-on DevOps practice log — one topic a day, documented as I go. Each
 | 06 | Create a Cron Job | Linux / Scheduling | 2026-09-21 | [day-06-create-cron-job.md](./day-06-create-cron-job.md) |
 | 07 | Linux SSH Authentication | Linux / Networking | 2026-09-21 | [day-07-linux-ssh-authentication.md](./day-07-linux-ssh-authentication.md) |
 | 08 | Install Ansible | Automation / Configuration Management | 2026-09-21 | [day-08-install-ansible.md](./day-08-install-ansible.md) |
+| 09 | MariaDB Troubleshooting | Linux / Databases / Troubleshooting | 2026-09-27 | [day-09-mariadb-troubleshooting.md](./day-09-mariadb-troubleshooting.md) |
 | 10 | Linux Bash Scripts | Linux / Bash Scripting | 2026-09-21 | [day-10-linux-bash-scripts.md](./day-10-linux-bash-scripts.md) |
 | 11 | Install and Configure Tomcat Server | Linux / Application Servers | 2026-09-25 | [day-11-install-configure-tomcat.md](./day-11-install-configure-tomcat.md) |
+| 12 | Linux Network Services | Linux / Networking | 2026-09-27 | [day-12-linux-network-services.md](./day-12-linux-network-services.md) |
+| 13 | IPtables Installation And Configuration | Linux / Security / Networking | 2026-09-27 | [day-13-iptables-installation-configuration.md](./day-13-iptables-installation-configuration.md) |
 | 14 | Linux Process Troubleshooting | Linux / Troubleshooting | 2026-09-21 | [day-14-linux-process-troubleshooting.md](./day-14-linux-process-troubleshooting.md) |
 | 15 | Setup SSL for Nginx | Linux / Networking / Security | 2026-09-25 | [day-15-setup-ssl-nginx.md](./day-15-setup-ssl-nginx.md) |
+| 16 | Install and Configure Nginx as an LBR | Linux / Networking / Load Balancing | 2026-09-27 | [day-16-nginx-load-balancer.md](./day-16-nginx-load-balancer.md) |
+| 17 | Install and Configure PostgreSQL | Databases / PostgreSQL | 2026-09-27 | [day-17-install-configure-postgresql.md](./day-17-install-configure-postgresql.md) |
+| 18 | Configure LAMP Server | Linux / Web Stack | 2026-09-27 | [day-18-configure-lamp-server.md](./day-18-configure-lamp-server.md) |
+| 19 | Install and Configure Web Application | Linux / Web Servers | 2026-09-27 | [day-19-install-configure-web-application.md](./day-19-install-configure-web-application.md) |
+| 20 | Configure Nginx + PHP-FPM Using Unix Socket | Linux / Web Stack | 2026-09-27 | [day-20-nginx-php-fpm-unix-socket.md](./day-20-nginx-php-fpm-unix-socket.md) |
+| 21 | Set Up Git Repository on Storage Server | Git / Version Control | 2026-09-27 | [day-21-setup-git-repository-storage-server.md](./day-21-setup-git-repository-storage-server.md) |
+| 22 | Clone Git Repository on Storage Server | Git / Version Control | 2026-09-27 | [day-22-clone-git-repository-storage-server.md](./day-22-clone-git-repository-storage-server.md) |
+| 23 | Fork a Git Repository | Git / Gitea | 2026-09-27 | [day-23-fork-git-repository.md](./day-23-fork-git-repository.md) |
+| 24 | Git Create Branches | Git / Version Control | 2026-09-27 | [day-24-git-create-branches.md](./day-24-git-create-branches.md) |
+| 25 | Git Merge Branches | Git / Version Control | 2026-09-27 | [day-25-git-merge-branches.md](./day-25-git-merge-branches.md) |
 <!-- INDEX_END -->
 
 ---
