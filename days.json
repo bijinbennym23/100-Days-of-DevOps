@@ -201,5 +201,12 @@
     "category": "Git / Version Control",
     "date": "",
     "path": "day-32-git-rebase.md"
+  },
+  {
+    "day": 33,
+    "title": "Resolve Git Merge Conflicts",
+    "category": "Git / Version Control",
+    "date": "2026-10-09",
+    "path": "day-33-resolve-git-merge-conflicts.md"
   }
 ]
