@@ -1,6 +1,6 @@
 # 100 Days of DevOps Learning Challenge
 
-![Days](https://img.shields.io/badge/days-24%2F100-blue)
+![Days](https://img.shields.io/badge/days-29%2F100-blue)
 ![Last Updated](https://img.shields.io/badge/last%20updated-Oct%202026-informational)
 ![Stack](https://img.shields.io/badge/stack-Linux%20%7C%20K8s%20%7C%20AWS%20%7C%20CI%2FCD-orange)
 
@@ -37,6 +37,11 @@ Daily hands-on DevOps practice log — one topic a day, documented as I go. Each
 | 25 | Git Merge Branches | Git / Version Control | 2026-09-27 | [day-25-git-merge-branches.md](./day-25-git-merge-branches.md) |
 | 26 | Git Manage Remotes | Git / Version Control | 2026-09-29 | [day-26-git-manage-remotes.md](./day-26-git-manage-remotes.md) |
 | 27 | Git Revert Some Changes | Git / Version Control | 2026-09-29 | [day-27-git-revert-changes.md](./day-27-git-revert-changes.md) |
+| 28 | Git Cherry Pick Start | Git / Version Control | 2026-10-09 | [day-28-git-cherry-pick.md](./day-28-git-cherry-pick.md) |
+| 29 | Manage Git Pull Requests | Git / Gitea / Code Review | 2026-10-09 | [day-29-manage-git-pull-requests.md](./day-29-manage-git-pull-requests.md) |
+| 30 | Git Hard Reset | Git / Version Control | 2026-10-09 | [day-30-git-hard-reset.md](./day-30-git-hard-reset.md) |
+| 31 | Git Stash | Git / Version Control | 2026-10-09 | [day-31-git-stash.md](./day-31-git-stash.md) |
+| 32 | Git Rebase | Git / Version Control |  | [day-32-git-rebase.md](./day-32-git-rebase.md) |
 <!-- INDEX_END -->
 
 ---

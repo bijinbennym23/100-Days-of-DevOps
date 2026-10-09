@@ -166,5 +166,40 @@
     "category": "Git / Version Control",
     "date": "2026-09-29",
     "path": "day-27-git-revert-changes.md"
+  },
+  {
+    "day": 28,
+    "title": "Git Cherry Pick Start",
+    "category": "Git / Version Control",
+    "date": "2026-10-09",
+    "path": "day-28-git-cherry-pick.md"
+  },
+  {
+    "day": 29,
+    "title": "Manage Git Pull Requests",
+    "category": "Git / Gitea / Code Review",
+    "date": "2026-10-09",
+    "path": "day-29-manage-git-pull-requests.md"
+  },
+  {
+    "day": 30,
+    "title": "Git Hard Reset",
+    "category": "Git / Version Control",
+    "date": "2026-10-09",
+    "path": "day-30-git-hard-reset.md"
+  },
+  {
+    "day": 31,
+    "title": "Git Stash",
+    "category": "Git / Version Control",
+    "date": "2026-10-09",
+    "path": "day-31-git-stash.md"
+  },
+  {
+    "day": 32,
+    "title": "Git Rebase",
+    "category": "Git / Version Control",
+    "date": "",
+    "path": "day-32-git-rebase.md"
   }
 ]
