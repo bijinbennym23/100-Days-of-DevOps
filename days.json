@@ -152,5 +152,19 @@
     "category": "Git / Version Control",
     "date": "2026-09-27",
     "path": "day-25-git-merge-branches.md"
+  },
+  {
+    "day": 26,
+    "title": "Git Manage Remotes",
+    "category": "Git / Version Control",
+    "date": "2026-09-29",
+    "path": "day-26-git-manage-remotes.md"
+  },
+  {
+    "day": 27,
+    "title": "Git Revert Some Changes",
+    "category": "Git / Version Control",
+    "date": "2026-09-29",
+    "path": "day-27-git-revert-changes.md"
   }
 ]
