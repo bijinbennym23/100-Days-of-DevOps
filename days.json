@@ -208,5 +208,12 @@
     "category": "Git / Version Control",
     "date": "2026-10-09",
     "path": "day-33-resolve-git-merge-conflicts.md"
+  },
+  {
+    "day": 34,
+    "title": "Git Hook",
+    "category": "Git / Automation",
+    "date": "2026-10-09",
+    "path": "day-34-git-hook.md"
   }
 ]

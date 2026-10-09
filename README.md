@@ -1,6 +1,6 @@
 # 100 Days of DevOps Learning Challenge
 
-![Days](https://img.shields.io/badge/days-30%2F100-blue)
+![Days](https://img.shields.io/badge/days-31%2F100-blue)
 ![Last Updated](https://img.shields.io/badge/last%20updated-Oct%202026-informational)
 ![Stack](https://img.shields.io/badge/stack-Linux%20%7C%20K8s%20%7C%20AWS%20%7C%20CI%2FCD-orange)
 
@@ -43,6 +43,7 @@ Daily hands-on DevOps practice log — one topic a day, documented as I go. Each
 | 31 | Git Stash | Git / Version Control | 2026-10-09 | [day-31-git-stash.md](./day-31-git-stash.md) |
 | 32 | Git Rebase | Git / Version Control |  | [day-32-git-rebase.md](./day-32-git-rebase.md) |
 | 33 | Resolve Git Merge Conflicts | Git / Version Control | 2026-10-09 | [day-33-resolve-git-merge-conflicts.md](./day-33-resolve-git-merge-conflicts.md) |
+| 34 | Git Hook | Git / Automation | 2026-10-09 | [day-34-git-hook.md](./day-34-git-hook.md) |
 <!-- INDEX_END -->
 
 ---
