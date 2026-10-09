@@ -196,13 +196,6 @@
     "path": "day-31-git-stash.md"
   },
   {
-    "day": 32,
-    "title": "Git Rebase",
-    "category": "Git / Version Control",
-    "date": "",
-    "path": "day-32-git-rebase.md"
-  },
-  {
     "day": 33,
     "title": "Resolve Git Merge Conflicts",
     "category": "Git / Version Control",
