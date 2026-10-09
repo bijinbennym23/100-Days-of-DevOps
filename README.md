@@ -41,7 +41,7 @@ Daily hands-on DevOps practice log — one topic a day, documented as I go. Each
 | 29 | Manage Git Pull Requests | Git / Gitea / Code Review | 2026-10-09 | [day-29-manage-git-pull-requests.md](./day-29-manage-git-pull-requests.md) |
 | 30 | Git Hard Reset | Git / Version Control | 2026-10-09 | [day-30-git-hard-reset.md](./day-30-git-hard-reset.md) |
 | 31 | Git Stash | Git / Version Control | 2026-10-09 | [day-31-git-stash.md](./day-31-git-stash.md) |
-| 32 | Git Rebase | Git / Version Control |  | [day-32-git-rebase.md](./day-32-git-rebase.md) |
+| 32 | Git Rebase | Git / Version Control | 2026-10-09 | [day-32-git-rebase.md](./day-32-git-rebase.md) |
 | 33 | Resolve Git Merge Conflicts | Git / Version Control | 2026-10-09 | [day-33-resolve-git-merge-conflicts.md](./day-33-resolve-git-merge-conflicts.md) |
 <!-- INDEX_END -->
 
