@@ -271,5 +271,68 @@
     "category": "Docker / Containers",
     "date": "2026-11-22",
     "path": "day-41-write-a-dockerfile.md"
+  },
+  {
+    "day": 42,
+    "title": "Create a Docker Network",
+    "category": "Docker / Networking",
+    "date": "2026-11-22",
+    "path": "day-42-create-docker-network.md"
+  },
+  {
+    "day": 43,
+    "title": "Docker Ports Mapping",
+    "category": "Docker / Networking",
+    "date": "2026-11-22",
+    "path": "day-43-docker-ports-mapping.md"
+  },
+  {
+    "day": 44,
+    "title": "Write a Docker Compose File",
+    "category": "Docker / Docker Compose",
+    "date": "2026-11-22",
+    "path": "day-44-write-docker-compose-file.md"
+  },
+  {
+    "day": 45,
+    "title": "Resolve Dockerfile Issues",
+    "category": "Docker / Troubleshooting",
+    "date": "2026-11-22",
+    "path": "day-45-resolve-dockerfile-issues.md"
+  },
+  {
+    "day": 46,
+    "title": "Deploy an App on Docker Containers",
+    "category": "Docker / Docker Compose",
+    "date": "2026-11-22",
+    "path": "day-46-deploy-app-on-docker-containers.md"
+  },
+  {
+    "day": 47,
+    "title": "Docker Python App",
+    "category": "Docker / Containers",
+    "date": "2026-11-22",
+    "path": "day-47-docker-python-app.md"
+  },
+  {
+    "day": 48,
+    "title": "Deploy Pods in Kubernetes Cluster",
+    "category": "Kubernetes / Pods",
+    "date": "2026-11-22",
+    "path": "day-48-deploy-pods-in-kubernetes-cluster.md"
+  },
+  {
+    "day": 49,
+    "title": "Deploy Applications with Kubernetes Deployments",
+    "category": "Kubernetes / Deployments",
+    "date": "2026-11-22",
+    "path": "day-49-kubernetes-deployments.md"
+  },
+  {
+    "day": 50,
+    "title": "Set Resource Limits in Kubernetes Pods",
+    "category": "Kubernetes / Resource Management",
+    "date": "2026-11-22",
+    "path": "day-50-kubernetes-resource-limits.md"
   }
 ]

@@ -1,6 +1,6 @@
 # 100 Days of DevOps Learning Challenge
 
-![Days](https://img.shields.io/badge/days-39%2F100-blue)
+![Days](https://img.shields.io/badge/days-48%2F100-blue)
 ![Last Updated](https://img.shields.io/badge/last%20updated-Nov%202026-informational)
 ![Stack](https://img.shields.io/badge/stack-Linux%20%7C%20K8s%20%7C%20AWS%20%7C%20CI%2FCD-orange)
 
@@ -52,6 +52,15 @@ Daily hands-on DevOps practice log — one topic a day, documented as I go. Each
 | 39 | Create a Docker Image From Container | Docker / Containers | 2026-11-22 | [day-39-create-docker-image-from-container.md](./day-39-create-docker-image-from-container.md) |
 | 40 | Docker EXEC Operations | Docker / Containers | 2026-11-22 | [day-40-docker-exec-operations.md](./day-40-docker-exec-operations.md) |
 | 41 | Write a Docker File | Docker / Containers | 2026-11-22 | [day-41-write-a-dockerfile.md](./day-41-write-a-dockerfile.md) |
+| 42 | Create a Docker Network | Docker / Networking | 2026-11-22 | [day-42-create-docker-network.md](./day-42-create-docker-network.md) |
+| 43 | Docker Ports Mapping | Docker / Networking | 2026-11-22 | [day-43-docker-ports-mapping.md](./day-43-docker-ports-mapping.md) |
+| 44 | Write a Docker Compose File | Docker / Docker Compose | 2026-11-22 | [day-44-write-docker-compose-file.md](./day-44-write-docker-compose-file.md) |
+| 45 | Resolve Dockerfile Issues | Docker / Troubleshooting | 2026-11-22 | [day-45-resolve-dockerfile-issues.md](./day-45-resolve-dockerfile-issues.md) |
+| 46 | Deploy an App on Docker Containers | Docker / Docker Compose | 2026-11-22 | [day-46-deploy-app-on-docker-containers.md](./day-46-deploy-app-on-docker-containers.md) |
+| 47 | Docker Python App | Docker / Containers | 2026-11-22 | [day-47-docker-python-app.md](./day-47-docker-python-app.md) |
+| 48 | Deploy Pods in Kubernetes Cluster | Kubernetes / Pods | 2026-11-22 | [day-48-deploy-pods-in-kubernetes-cluster.md](./day-48-deploy-pods-in-kubernetes-cluster.md) |
+| 49 | Deploy Applications with Kubernetes Deployments | Kubernetes / Deployments | 2026-11-22 | [day-49-kubernetes-deployments.md](./day-49-kubernetes-deployments.md) |
+| 50 | Set Resource Limits in Kubernetes Pods | Kubernetes / Resource Management | 2026-11-22 | [day-50-kubernetes-resource-limits.md](./day-50-kubernetes-resource-limits.md) |
 <!-- INDEX_END -->
 
 ---
