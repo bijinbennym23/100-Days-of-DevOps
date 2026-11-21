@@ -215,5 +215,47 @@
     "category": "Git / Automation",
     "date": "2026-10-09",
     "path": "day-34-git-hook.md"
+  },
+  {
+    "day": 35,
+    "title": "Install Docker Packages and Start Docker Service",
+    "category": "Docker / Containers",
+    "date": "2026-11-22",
+    "path": "day-35-install-docker-start-service.md"
+  },
+  {
+    "day": 36,
+    "title": "Deploy Nginx Container on Application Server",
+    "category": "Docker / Containers",
+    "date": "2026-11-22",
+    "path": "day-36-deploy-nginx-container.md"
+  },
+  {
+    "day": 37,
+    "title": "Copy File to Docker Container",
+    "category": "Docker / Containers",
+    "date": "2026-11-22",
+    "path": "day-37-copy-file-to-docker-container.md"
+  },
+  {
+    "day": 38,
+    "title": "Pull Docker Image",
+    "category": "Docker / Containers",
+    "date": "2026-11-22",
+    "path": "day-38-pull-docker-image.md"
+  },
+  {
+    "day": 39,
+    "title": "Create a Docker Image From Container",
+    "category": "Docker / Containers",
+    "date": "2026-11-22",
+    "path": "day-39-create-docker-image-from-container.md"
+  },
+  {
+    "day": 40,
+    "title": "Docker EXEC Operations",
+    "category": "Docker / Containers",
+    "date": "2026-11-22",
+    "path": "day-40-docker-exec-operations.md"
   }
 ]

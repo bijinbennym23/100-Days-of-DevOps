@@ -1,6 +1,6 @@
 # 100 Days of DevOps Learning Challenge
 
-![Days](https://img.shields.io/badge/days-31%2F100-blue)
+![Days](https://img.shields.io/badge/days-37%2F100-blue)
 ![Last Updated](https://img.shields.io/badge/last%20updated-Oct%202026-informational)
 ![Stack](https://img.shields.io/badge/stack-Linux%20%7C%20K8s%20%7C%20AWS%20%7C%20CI%2FCD-orange)
 
@@ -44,6 +44,12 @@ Daily hands-on DevOps practice log — one topic a day, documented as I go. Each
 | 32 | Git Rebase | Git / Version Control | 2026-10-09 | [day-32-git-rebase.md](./day-32-git-rebase.md) |
 | 33 | Resolve Git Merge Conflicts | Git / Version Control | 2026-10-09 | [day-33-resolve-git-merge-conflicts.md](./day-33-resolve-git-merge-conflicts.md) |
 | 34 | Git Hook | Git / Automation | 2026-10-09 | [day-34-git-hook.md](./day-34-git-hook.md) |
+| 35 | Install Docker Packages and Start Docker Service | Docker / Containers | 2026-11-22 | [day-35-install-docker-start-service.md](./day-35-install-docker-start-service.md) |
+| 36 | Deploy Nginx Container on Application Server | Docker / Containers | 2026-11-22 | [day-36-deploy-nginx-container.md](./day-36-deploy-nginx-container.md) |
+| 37 | Copy File to Docker Container | Docker / Containers | 2026-11-22 | [day-37-copy-file-to-docker-container.md](./day-37-copy-file-to-docker-container.md) |
+| 38 | Pull Docker Image | Docker / Containers | 2026-11-22 | [day-38-pull-docker-image.md](./day-38-pull-docker-image.md) |
+| 39 | Create a Docker Image From Container | Docker / Containers | 2026-11-22 | [day-39-create-docker-image-from-container.md](./day-39-create-docker-image-from-container.md) |
+| 40 | Docker EXEC Operations | Docker / Containers | 2026-11-22 | [day-40-docker-exec-operations.md](./day-40-docker-exec-operations.md) |
 <!-- INDEX_END -->
 
 ---
