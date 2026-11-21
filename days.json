@@ -1,5 +1,12 @@
 [
   {
+    "day": 3,
+    "title": "Secure Root SSH Access",
+    "category": "Linux / Security",
+    "date": "2026-11-22",
+    "path": "day-03-secure-root-ssh-access.md"
+  },
+  {
     "day": 4,
     "title": "File Permissions - Making a Script Executable for All Users",
     "category": "Linux / File Permissions",
@@ -257,5 +264,12 @@
     "category": "Docker / Containers",
     "date": "2026-11-22",
     "path": "day-40-docker-exec-operations.md"
+  },
+  {
+    "day": 41,
+    "title": "Write a Docker File",
+    "category": "Docker / Containers",
+    "date": "2026-11-22",
+    "path": "day-41-write-a-dockerfile.md"
   }
 ]

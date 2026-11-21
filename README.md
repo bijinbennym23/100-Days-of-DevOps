@@ -1,6 +1,6 @@
 # 100 Days of DevOps Learning Challenge
 
-![Days](https://img.shields.io/badge/days-37%2F100-blue)
+![Days](https://img.shields.io/badge/days-39%2F100-blue)
 ![Last Updated](https://img.shields.io/badge/last%20updated-Oct%202026-informational)
 ![Stack](https://img.shields.io/badge/stack-Linux%20%7C%20K8s%20%7C%20AWS%20%7C%20CI%2FCD-orange)
 
@@ -13,6 +13,7 @@ Daily hands-on DevOps practice log — one topic a day, documented as I go. Each
 <!-- INDEX_START -->
 | Day | Topic | Category | Date | Link |
 |-----|-------|----------|------|------|
+| 03 | Secure Root SSH Access | Linux / Security | 2026-11-22 | [day-03-secure-root-ssh-access.md](./day-03-secure-root-ssh-access.md) |
 | 04 | File Permissions - Making a Script Executable for All Users | Linux / File Permissions | 2026-09-15 | [day-04-file-permissions-executable.md](./day-04-file-permissions-executable.md) |
 | 05 | SELinux Installation and Configuration | Linux / Security | 2026-09-15 | [day-05-selinux-configuration.md](./day-05-selinux-configuration.md) |
 | 06 | Create a Cron Job | Linux / Scheduling | 2026-09-21 | [day-06-create-cron-job.md](./day-06-create-cron-job.md) |
@@ -50,6 +51,7 @@ Daily hands-on DevOps practice log — one topic a day, documented as I go. Each
 | 38 | Pull Docker Image | Docker / Containers | 2026-11-22 | [day-38-pull-docker-image.md](./day-38-pull-docker-image.md) |
 | 39 | Create a Docker Image From Container | Docker / Containers | 2026-11-22 | [day-39-create-docker-image-from-container.md](./day-39-create-docker-image-from-container.md) |
 | 40 | Docker EXEC Operations | Docker / Containers | 2026-11-22 | [day-40-docker-exec-operations.md](./day-40-docker-exec-operations.md) |
+| 41 | Write a Docker File | Docker / Containers | 2026-11-22 | [day-41-write-a-dockerfile.md](./day-41-write-a-dockerfile.md) |
 <!-- INDEX_END -->
 
 ---
