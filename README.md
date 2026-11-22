@@ -1,6 +1,6 @@
 # 100 Days of DevOps Learning Challenge
 
-![Days](https://img.shields.io/badge/days-48%2F100-blue)
+![Days](https://img.shields.io/badge/days-50%2F100-blue)
 ![Last Updated](https://img.shields.io/badge/last%20updated-Nov%202026-informational)
 ![Stack](https://img.shields.io/badge/stack-Linux%20%7C%20K8s%20%7C%20AWS%20%7C%20CI%2FCD-orange)
 
@@ -13,6 +13,8 @@ Daily hands-on DevOps practice log — one topic a day, documented as I go. Each
 <!-- INDEX_START -->
 | Day | Topic | Category | Date | Link |
 |-----|-------|----------|------|------|
+| 01 | Linux User Setup with Non-Interactive Shell | Linux / User Management | 2026-11-22 | [day-01-linux-user-non-interactive-shell.md](./day-01-linux-user-non-interactive-shell.md) |
+| 02 | Temporary User Setup with Expiry | Linux / User Management | 2026-11-22 | [day-02-temporary-user-setup-with-expiry.md](./day-02-temporary-user-setup-with-expiry.md) |
 | 03 | Secure Root SSH Access | Linux / Security | 2026-11-22 | [day-03-secure-root-ssh-access.md](./day-03-secure-root-ssh-access.md) |
 | 04 | File Permissions - Making a Script Executable for All Users | Linux / File Permissions | 2026-09-15 | [day-04-file-permissions-executable.md](./day-04-file-permissions-executable.md) |
 | 05 | SELinux Installation and Configuration | Linux / Security | 2026-09-15 | [day-05-selinux-configuration.md](./day-05-selinux-configuration.md) |

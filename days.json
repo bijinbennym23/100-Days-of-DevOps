@@ -1,5 +1,19 @@
 [
   {
+    "day": 1,
+    "title": "Linux User Setup with Non-Interactive Shell",
+    "category": "Linux / User Management",
+    "date": "2026-11-22",
+    "path": "day-01-linux-user-non-interactive-shell.md"
+  },
+  {
+    "day": 2,
+    "title": "Temporary User Setup with Expiry",
+    "category": "Linux / User Management",
+    "date": "2026-11-22",
+    "path": "day-02-temporary-user-setup-with-expiry.md"
+  },
+  {
     "day": 3,
     "title": "Secure Root SSH Access",
     "category": "Linux / Security",
